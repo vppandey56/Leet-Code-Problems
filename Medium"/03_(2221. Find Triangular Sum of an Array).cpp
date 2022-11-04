@@ -1,4 +1,4 @@
-Example 1:
+/*Example 1:
 1 2 3 4 5 
  3 5 7 9
   8 2 6
@@ -17,6 +17,7 @@ Input: nums = [5]
 Output: 5
 Explanation:
 Since there is only one element in nums, the triangular sum is the value of that element itself.
+*/
 
 
 class Solution {
