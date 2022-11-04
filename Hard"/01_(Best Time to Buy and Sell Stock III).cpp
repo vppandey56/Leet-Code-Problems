@@ -1,4 +1,4 @@
-Example 1:
+/*Example 1:
 
 Input: prices = [3,3,5,0,0,3,1,4]
 Output: 6
@@ -17,6 +17,8 @@ Example 3:
 Input: prices = [7,6,4,3,1]
 Output: 0
 Explanation: In this case, no transaction is done, i.e. max profit = 0.
+
+*/
 
 class Solution {
 public:
